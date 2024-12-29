@@ -66,4 +66,5 @@ Both projects utilize advanced data preprocessing, dimensionality reduction, and
 - **SVM** emerged as the best model post-PCA:
   - Accuracy: 61%
   - Balanced metrics for identifying healthy and at-risk individuals.
-
+  - 
+### ⭐️ **If you find this repository useful, give it a star!**
